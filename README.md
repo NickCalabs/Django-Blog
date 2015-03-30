@@ -1,2 +1,2 @@
 ## Django Blog
-Taken from the [http://tutorial.djangogirls.org/en/django_models/README.html](Django Girls) walkthrough. Assignment for class.
+Taken from the [Django Girl](shttp://tutorial.djangogirls.org/en/django_models/README.html) walkthrough. Assignment for class.
